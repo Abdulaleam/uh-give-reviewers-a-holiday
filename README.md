@@ -7,4 +7,4 @@
 
 ## Preview
 
-![Website Preview](https://cdn.hackclub.com/019e572d-aa54-7127-8be3-f6909b924fa3/screenshot.png)
+![Website Preview](https://media.discordapp.net/attachments/1487955922490884156/1507891052290506842/6E29A380-7179-4C6F-BCF3-501549BC060E.png?ex=6a138c7a&is=6a123afa&hm=88fbe6761ea7abe7ed7bb58a2957b3ee3390310794f054d641ba5a5078802d10&=&format=webp&quality=lossless)
